@@ -1,7 +1,7 @@
 API for Flight System app in express.js with MongoDB
 ## Setup
-## Demo
-[![Watch the video](https://img.youtube.com/vi/ZJsrkypCF7E/maxresdefault.jpg)](https://youtu.be/ZJsrkypCF7E)
+## Demo Link (Google Drive):**  
+[Watch on Google Drive](https://drive.google.com/file/d/1GAnxGMKu9ha02WOVXN7krgCwveAnoFSC/view?usp=drivesdk)
 
 create a root directory `flight-system`
 and clone these two repositories in it
